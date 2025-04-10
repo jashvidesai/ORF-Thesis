@@ -1,4 +1,4 @@
-This repository contains code supporting the thesis Exact and Heuristic Optimization Methods for the Transportation of Radiopharmaceuticals.
+This repository contains code supporting the senior thesis "Exact and Heuristic Optimization Methods for the Transportation of Radiopharmaceuticals".
 
 Chapter Code Mapping:
 
