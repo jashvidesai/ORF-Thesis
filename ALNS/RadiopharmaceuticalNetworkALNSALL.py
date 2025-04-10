@@ -9,6 +9,8 @@ Original file is located at
 # **Importing From RadiopharmaceuticalNetworkParameters.ipynb**
 """
 
+# Acknowledging the use of AI for syntax for code.
+
 from google.colab import drive
 drive.mount('/content/drive')
 
